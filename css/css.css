@@ -1,0 +1,216 @@
+
+
+
+ul{
+    list-style-type: none;
+    max-width: 1015px;
+    padding:0 20px;
+    margin: auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    max-width: 1015px;
+    position: relative;
+}
+li{
+    display: inline;
+    float: right;
+    padding:10px 0px 10px 0px;
+    
+}
+li a{
+
+    padding: 8px;
+    display: inline-block;
+    position: relative;
+   
+    
+}
+.b {
+  
+    color: #00b39b;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+   margin-top: 5px; 
+   margin-bottom: 20px;
+}
+.logo{
+    margin: 2px;
+    line-height: 68px;
+   
+ 
+}
+.a{
+    color: #ababaa;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 6px;
+   
+  }
+  .img_logo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    min-width: 100%;
+    
+  }
+  .section1{
+    margin-top: 40px;
+
+  }
+  .row{
+    margin-top: 40px;
+    min-width:100%;
+  }
+  .title{
+    margin-top: 30px!important;
+    font-family: 'Roboto', sans-serif!important;
+   
+    font-size: 2.125rem!important;
+    color:#00b39b!important;
+  }
+.p1{
+    margin: 0.8cm,0 ;
+    line-height: 1.75;
+    font-weight: 600px;
+    margin-top: 40px; 
+
+}
+.p2{
+    margin: 0.8cm,0 ;
+    line-height: 1.75;
+    font-weight: 400;
+    margin-top: 40px;
+    margin-bottom: 20px;
+   }
+/* .box1{
+  color:  #747474 ;
+    padding: 10 px;
+box-sizing: border-box;
+box-sizing: inherit;
+flex-direction: row-reverse; 
+flex-wrap: nowrap;
+justify-content: center;
+align-items: center;
+
+} */
+
+.container{
+    max-width: 1200;
+}
+.mainselect {
+    /* display: inline-block;
+    box-sizing: border-box; */
+    float: right;
+    margin-top: 80px;
+    margin-bottom:80px
+}
+.mainselectpatient {
+    background-color:#00ccb1;
+    color: #fff;
+    width: 25%;
+    height: 340px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 120px;
+    /* display: inline; */
+
+}
+.mainselectpatient h1 {
+    font-weight: 50;
+}
+.mainselectpatient p {
+    font-size: larger;
+    padding-top: 20px;
+}
+
+#countryselect {
+    background-color: #00ccb1;
+    color: #fff;
+    border: none;
+    text-decoration:underline;
+    width: 100%;
+    height: 40px;
+    font-size: larger;
+}
+#countryselect:hover {
+    cursor: pointer;
+}
+.mainselectdoctor {
+    background-color: #3d83df;
+    color: #fff;
+    width: 25%;
+    height: 340px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-left: 50px;
+    float: left;
+} 
+.mainselectdoctor h1 {
+    font-weight: 50;
+}
+.mainselectdoctor p {
+    font-size: larger;
+    padding-top: 20px;
+}
+#countryselect2 {
+    background-color:#3d83df;
+    color: #fff;
+    border: none;
+    text-decoration:underline;
+    width: 100%;
+    height: 40px;
+    font-size: larger;
+}
+#countryselect2:hover {
+    cursor: pointer;
+} 
+.mainselectclinics {
+    background-color: #1b2734;
+    color: #fff;
+    width: 25%;
+    height: 340px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-left: 50px;
+    float: left;
+}
+.mainselectclinics h1 {
+    font-weight: 50;
+}
+.mainselectclinics p {
+    font-size: larger;
+    padding-top: 20px;
+}
+#countryselect3 {
+    background-color:#1b2734;
+    color: #fff;
+    border: none;
+    text-decoration:underline;
+   
+    font-size: larger;
+}
+#classclinic {
+    margin-top: 40px;
+}
+#classclinic2 {
+    margin-top: 0;
+    padding-top: 0;
+}
+.company{
+max-width: 1015px;
+margin: 2.5rem auto 3.125rem;
+}
+.company_p{
+
+padding-right: 1cm;
+font-weight: 300;
+color: #00b39b;
+margin: 1cm 0;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-size: 1.625em;
+width: 33%;
+margin: 0.25em 0 0.35em;
+}
